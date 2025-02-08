@@ -1,6 +1,7 @@
 # AI Agents for SOP Training
 
-![mermaid-diagram-2025-02-08-202259](https://github.com/user-attachments/assets/dc04ef37-3632-45c0-846a-40a66958a2a4)
+![Untitled diagram-2025-02-08-234142](https://github.com/user-attachments/assets/b7961483-a16d-4f13-9e02-70c2c4459ab8)
+
 
 ## Introduction
 
