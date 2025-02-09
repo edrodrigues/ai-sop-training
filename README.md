@@ -68,13 +68,8 @@ Establishing protocols for escalating complex issues to human trainers and ensur
 
 ## Conclusion
 
-### Summary of Benefits and Considerations
-
 A summary of the key benefits and considerations of using AI agents for SOP training.
-
-### Future Outlook
-
-Potential developments, such as the integration of AI agents with VR/AR to enhance SOP training.
+Calculating the Business Case for implementing the AI Agent for SOP Training.
 
 ## Bibliography
 
